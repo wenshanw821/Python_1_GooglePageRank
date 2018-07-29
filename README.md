@@ -1,4 +1,3 @@
 # Python_Projects
 1 - Google PageRank Algorithm\
-2 - Email Crawl\
-3 - Email visualization
+Use the google pagerank algorithm to crawl emails and URL.
